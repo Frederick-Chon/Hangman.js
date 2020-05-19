@@ -4,7 +4,7 @@ Hangman.js is a simple hangman game that displays hangman figure using SVG and J
 
 ## Live Demo
 
-Live version hosted [here](/)
+Live version hosted [here](https://frederick-chon.github.io/Hangman.js/)
 
 ## Built Using
 
